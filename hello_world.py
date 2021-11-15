@@ -1,0 +1,1 @@
+print("gritty rocks")
